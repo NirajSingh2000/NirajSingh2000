@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niraj Kumar Singh</h1>
-<h3 align="center">💻 MCA Graduate | Frontend Web Developer | React & Bootstrap Enthusiast</h3>
+<h3 align="center">💻 MCA Graduate | Frontend & Backend Web Developer | React & Bootstrap Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nirajsingh2000&label=Profile%20views&color=0e75b6&style=flat" alt="nirajsingh2000" />
@@ -7,9 +7,9 @@
 
 ---
 
-🔭 I’m currently working on a **Recommendation System Project**  
+<!--🔭 I’m currently working on a **Recommendation System Project**  -->
 🌱 Currently learning **Web Development** 
-🌐 Checkout my portfolio: [Click to Check Portfolio](https://niraj2000.netlify.app)  
+🌐 Checkout my portfolio: [Click to Visit](https://niraj2000.netlify.app)  
 📫 Reach me at: **snirajsingh678@gmail.com**  
 💬 Ask me about **Web Development, React, or anything tech-related**  
 ⚡ Fun fact: **I love turning complex problems into simple solutions**
@@ -66,5 +66,5 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Niraj Kumar Singh" height="30" width="40" /></a>
   <a href="https://github.com/NirajSingh2000/NirajSingh2000/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /> </a> 
   <a href="https://www.instagram.com/your_instagram_username" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /> </a> 
-  <a href="https://niraj2000.netlify.app" target="blank"> <img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" height="30" width="40" /> </a>
+  <a href="https://niraj2000.netlify.app" target="blank"> <img align="center" style="color:blue" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" height="30" width="40" /> </a>
 </p>
