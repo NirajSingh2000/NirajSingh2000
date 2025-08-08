@@ -2,7 +2,7 @@
 <h3 align="center">💻 MCA Graduate | Frontend & Backend Web Developer | React & Bootstrap Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nirajsingh2000&label=Profile%20views&color=0e75b6&style=flat" alt="nirajsingh2000" />
+  <a href="https://niraj2000.netlify.app">🌐Portfolio Website</a>
 </p>
 
 ---
