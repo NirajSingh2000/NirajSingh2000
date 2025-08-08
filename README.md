@@ -2,14 +2,13 @@
 <h3 align="center">💻 MCA Graduate | Frontend & Backend Web Developer | React & Bootstrap Enthusiast</h3>
 
 <p align="center">
-  <a href="https://niraj2000.netlify.app">🌐Portfolio Website</a>
+  🌐Checkout my portfolio:<a href="https://niraj2000.netlify.app"> [Click to Visit] </a>
 </p>
 
 ---
 
 <!--🔭 I’m currently working on a **Recommendation System Project**  -->
-🌱 Currently learning **Web Development** 
-🌐 Checkout my portfolio: [Click to Visit](https://niraj2000.netlify.app)  
+🌱 Currently learning **Web Development**   
 📫 Reach me at: **snirajsingh678@gmail.com**  
 💬 Ask me about **Web Development, React, or anything tech-related**  
 ⚡ Fun fact: **I love turning complex problems into simple solutions**
