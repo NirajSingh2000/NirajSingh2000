@@ -62,7 +62,9 @@
 ### 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/niraj-kumar-singh-90b220191" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Niraj Kumar Singh" height="30" width="40" />
-  </a>
+  <a href="www.linkedin.com/in/sniraj678" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Niraj Kumar Singh" height="30" width="40" /></a>
+  <a href="https://github.com/NirajSingh2000/NirajSingh2000/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /> </a> 
+  <a href="https://www.instagram.com/your_instagram_username" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /> </a> 
+  <a href="https://niraj2000.netlify.app" target="blank"> <img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" height="30" width="40" /> </a>
 </p>
