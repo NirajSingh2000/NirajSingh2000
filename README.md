@@ -6,18 +6,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sniraj678">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=3600" alt="LinkedIn" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/devil_nirajsingh">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&cacheSeconds=3600" alt="Instagram" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:snirajsingh678@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&cacheSeconds=3600" alt="Email" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://niraj2000.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white&cacheSeconds=3600" alt="Portfolio Website" />
   </a>
 </p>
+
 
 
 # 💻 Tech Stack:
